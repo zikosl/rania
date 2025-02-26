@@ -1,15 +1,15 @@
 var config = {
 
     texts: [
-        "Iness ",
-        "The most stunning girl I know ",
-        "Best Girl ever i knew",
+        "Rania ",
+        "The most stunning girl Cutie girl ",
+        "You deserve a whole mountain of gold... but I'll keep it for you so you don’t get too rich too fast! 😆",
+        "I hope the hotel is totally empty so we can have it all to ourselves… but knowing our luck, probably not! 😂",
         "Sending you the warmest wishes on your special day!",
         "You deserve every ounce of love and happiness",
-        "I know it's late!",
         "I tried to make it spetial 🎂",
-        "Wishing a Happy Birthday to the girl whose beauty captures hearts wherever she goes.",
-        "♥️ Iness ~~",
+        "Wishing a Happy Birthday to the girl whose beauty captures hearts (im not sure 😂) wherever she goes.",
+        "♥️ Rania ~~",
     ],
 
     imgs: {
